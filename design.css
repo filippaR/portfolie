@@ -1,5 +1,5 @@
 body {
-  background-color: #C7F089;
+  background-color: hsl(207, 42%, 86%)
 }
 
 /* overskrift h1 design */
@@ -8,7 +8,6 @@ font-style: italic;
 }
 
 p{
-background-color: #8BA365;
-}
+background-color: hsl(207, 42%, 63%)
 
-p{background-color: hsl(226, 34%, 76%)}
+p{background-color: hsl(207, 42%, 90%)
