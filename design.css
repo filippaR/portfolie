@@ -1,0 +1,14 @@
+body {
+  background-color: #C7F089;
+}
+
+/* overskrift h1 design */
+h1{
+font-style: italic;
+}
+
+p{
+background-color: #8BA365;
+}
+
+p{background-color: hsl(226, 34%, 76%)}
