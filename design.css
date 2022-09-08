@@ -9,6 +9,11 @@ font-style: italic;
 
 p{
 background-color: hsl(207, 42%, 63%)
+/* overskrift p design */
+p{
+font-style: italic;
+}    
+    
 
 p{
     background-color: hsl(207, 42%, 90%)
