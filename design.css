@@ -10,4 +10,5 @@ font-style: italic;
 p{
 background-color: hsl(207, 42%, 63%)
 
-p{background-color: hsl(207, 42%, 90%)
+p{
+    background-color: hsl(207, 42%, 90%)
